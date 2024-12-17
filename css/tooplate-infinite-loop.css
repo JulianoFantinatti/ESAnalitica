@@ -517,7 +517,7 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
+  background-image: url(../img/vials2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   min-height: 980px;
@@ -528,7 +528,7 @@ figure.effect-honey:hover h2 i {
 
 .contact-item {
   margin-left: 20px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .item-link {
